@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.smallimgDiv {
+  display: flex;
+  flex-direction: row;
+}
+
+.smallImg {
+  border-radius: 50%;
+}
+.userName {
+  display: inline-block;
+}
+.timeDate {
+  display: block;
+}
